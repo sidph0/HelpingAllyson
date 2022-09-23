@@ -7,7 +7,7 @@ public class Helpallyson {
         //Scanner
         Scanner input = new Scanner(System.in);
 
-        // Prompt the user to enter the weight of the package
+        // Enter package weight
         System.out.print("Enter weight: ");
         double weight = input.nextDouble();
 
